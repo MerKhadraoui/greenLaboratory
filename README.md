@@ -1,1 +1,3 @@
 # laborWebsite
+
+![Screenshot](screenshot.png)
