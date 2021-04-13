@@ -10,5 +10,12 @@
 .central-me {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
+  padding-top: 2rem;
+}
+#team {
+  width: 20vw;
+  height: 20vh;
+  border-radius: 50%;
+  border: 2px solid rgb(0, 9, 139);
 }
